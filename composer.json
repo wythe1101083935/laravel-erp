@@ -1,7 +1,8 @@
 {
     "name": "wythe1101083935/laravel-erp",
     "description": "使用laravel开发Erp平台后台基本页面交互服务",
-    "require": {
-        "php": "^7.0",
+    "require": 
+    {
+        "php": "^7.0"
     }
 }
